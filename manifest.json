@@ -1,0 +1,6 @@
+{
+	"add": [
+		{ "file": "test1.txt", "url": "http://localhost:5500/cdn/test1.txt" }
+	],
+	"remove": ["test1.txt"]
+}
